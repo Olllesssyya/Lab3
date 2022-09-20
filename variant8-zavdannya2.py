@@ -1,4 +1,4 @@
-#Лабароторна 3 варіант 8 завдання1. Посилання на GitHub https://github.com/Olllesssyya/Lab3
+#Лабароторна 3 варіант 8 завдання2. Посилання на GitHub https://github.com/Olllesssyya/Lab3
 import sys
 import argparse
 n=int(sys.argv[1])
